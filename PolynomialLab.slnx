@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../../../../../../../../уник/2 курс/2к 1 семестр/пнас/пз1/PolynomialLab/PolynomialLab.Tests/PolynomialLab.Tests.csproj" Id="d29c4379-e00c-4c19-96e9-763b15d5050d" />
-  <Project Path="../../../../../../../../уник/2 курс/2к 1 семестр/пнас/пз1/PolynomialLab/PolynomialLab/PolynomialLab.csproj" Id="6ab3d15b-a9fd-491b-8d61-6206979eaf98" />
+  <Project Path="PolynomialLab.Tests/PolynomialLab.Tests.csproj" />
+  <Project Path="PolynomialLab/PolynomialLab.csproj" />
 </Solution>
